@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 001e9ed11d43a1d48b8abe302722c305, type: 3}
+  m_Name: Pyramid
+  m_EditorClassIdentifier: 
+  _sideSize: 5
+  _prefab: {fileID: 5757504601857904625, guid: a33203533c1e5a447ac990a1e148964c, type: 3}
